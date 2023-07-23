@@ -27,3 +27,4 @@ npm run dev
 ```sh
 npm run build
 ```
+<img width="1336" alt="Screenshot 2023-07-22 at 11 04 09 PM" src="https://github.com/sudo-self/Vite-js-Vue3/assets/119916323/78ad0817-7ab1-464b-918e-a9b8077f57a4">
